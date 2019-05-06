@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Android04_BackStack</string>
+    <string name="next_fragment">Next Fragment</string>
+</resources>
