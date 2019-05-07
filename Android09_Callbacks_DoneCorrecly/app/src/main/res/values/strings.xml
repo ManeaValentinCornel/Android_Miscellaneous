@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Android09_Callbacks_DoneCorrecly</string>
+
+
+    <string-array name="countries"
+    ><item>Romania</item>
+        <item>England</item>
+        <item>India</item>
+    </string-array>
+
+    <string name="Romania">
+        Europe is a continent located entirely in the Northern Hemisphere and mostly in the
+        Eastern Hemisphere. It is bordered by the Arctic Ocean to the north, the Atlantic Ocean to the west and the Mediterranean Sea to the south. It comprises the westernmost part of Eurasia.
+    </string>
+    <string name="England">
+        Europe is a continent located entirely in the Northern Hemisphere and mostly in the
+        Eastern Hemisphere. It is bordered by the Arctic Ocean to the north, the Atlantic Ocean to the west and the Mediterranean Sea to the south. It comprises the westernmost part of Eurasia.
+    </string>
+    <string name="India">
+        Europe is a continent located entirely in the Northern Hemisphere and mostly in the
+        Eastern Hemisphere. It is bordered by the Arctic Ocean to the north, the Atlantic Ocean to the west and the Mediterranean Sea to the south. It comprises the westernmost part of Eurasia.
+    </string>
+    <string name="start_btn">Start List</string>
+
+</resources>
