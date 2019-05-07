@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">Android07_Implementation</string>
+
+
+    <string-array name="countries">
+        <item>India</item>
+        <item>Romania</item>
+        <item>Pakistan</item>
+        <item>Egypt</item>
+        <item>Germany</item>
+        <item>England</item>
+    </string-array>
+
+
+    <string name="India">
+        Europe is a continent entorely is the Northern Hemishphere and mostl in the Rastern Hemmisphere.It is bordered  by the Artic Ocean to the west
+        and the Medirerranean Sea to the south.Since around 1950, Europe is mist  commoly consideres to be separated from Asia
+        by the wathershed
+    </string>
+    <string name="Romania">
+        Europe is a continent entorely is the Northern Hemishphere and mostl in the Rastern Hemmisphere.It is bordered  by the Artic Ocean to the west
+        and the Medirerranean Sea to the south.Since around 1950, Europe is mist  commoly consideres to be separated from Asia
+        by the wathershed
+    </string>
+    <string name="Pakistan">
+        Europe is a continent entorely is the Northern Hemishphere and mostl in the Rastern Hemmisphere.It is bordered  by the Artic Ocean to the west
+        and the Medirerranean Sea to the south.Since around 1950, Europe is mist  commoly consideres to be separated from Asia
+        by the wathershed
+    </string>
+    <string name="Egypt">
+        Europe is a continent entorely is the Northern Hemishphere and mostl in the Rastern Hemmisphere.It is bordered  by the Artic Ocean to the west
+        and the Medirerranean Sea to the south.Since around 1950, Europe is mist  commoly consideres to be separated from Asia
+        by the wathershed
+    </string>
+    <string name="Germany">
+        Europe is a continent entorely is the Northern Hemishphere and mostl in the Rastern Hemmisphere.It is bordered  by the Artic Ocean to the west
+        and the Medirerranean Sea to the south.Since around 1950, Europe is mist  commoly consideres to be separated from Asia
+        by the wathershed
+    </string>
+    <string name="England">
+        Europe is a continent entorely is the Northern Hemishphere and mostl in the Rastern Hemmisphere.It is bordered  by the Artic Ocean to the west
+        and the Medirerranean Sea to the south.Since around 1950, Europe is mist  commoly consideres to be separated from Asia
+        by the wathershed
+    </string>
+
+
+
+</resources>
