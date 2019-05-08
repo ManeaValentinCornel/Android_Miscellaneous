@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Android11_SupportMultipleLayours_REAL_ONE</string>
+
+    <string-array name="countries">
+        <item>Romania</item>
+        <item>England</item>
+    </string-array>
+
+
+    <string name="Romania">DADADADADADA</string>
+    <string name="England">NUNUNUNU</string>
+</resources>
