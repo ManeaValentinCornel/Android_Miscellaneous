@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:customAttrs="http://schemas.android.com/apk/res-auto">
+    <PreferenceCategory
+        android:key="user_category"
+        android:title="USER"/>
+
+
+    <ListPreference
+        android:key="list_preference"
+        android:title="Language"
+        android:entries="@array/typesOfMusic"
+        android:entryValues="@array/typesOfMusicValues"
+        android:summary="Choose you language"/>
+
+    <CheckBoxPreference
+        android:defaultValue="false"
+        android:key="check_Sport"
+        android:title="Sport"
+        android:summary="android:Enable or disable sleep timer"
+        />
+
+
+
+
+
+</PreferenceScreen>

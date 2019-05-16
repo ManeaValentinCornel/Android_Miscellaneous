@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+
+    <string-array name="typesOfMusic">
+        <item>Pop</item>
+        <item>Classical</item>
+        <item>Rock</item>
+        <item>HipHop</item>
+    </string-array>
+
+    <string-array name="typesOfMusicValues">
+        <item>Pop</item>
+        <item>Classical</item>
+        <item>Rock</item>
+        <item>HipHop</item>
+    </string-array>
+
+
+</resources>
