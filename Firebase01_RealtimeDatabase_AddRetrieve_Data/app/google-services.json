@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "221392906476",
+    "firebase_url": "https://fir-01realtimedatabasead-b750d.firebaseio.com",
+    "project_id": "fir-01realtimedatabasead-b750d",
+    "storage_bucket": "fir-01realtimedatabasead-b750d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:221392906476:android:cb5740bfa6e476c8",
+        "android_client_info": {
+          "package_name": "vcmanea.example.firebase01_realtimedatabase_addretrieve_data"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "221392906476-l4d1lu7g2nibaclebadv94kdh13kluc2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "vcmanea.example.firebase01_realtimedatabase_addretrieve_data",
+            "certificate_hash": "1c9cccf7edd0eb0554cef2271e1de63b76472910"
+          }
+        },
+        {
+          "client_id": "221392906476-ou27isft0aotvff0r279mnnmqsmlpob8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJifqmpLgO5YzknX-FkR2LfnORj5DBKV4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "221392906476-ou27isft0aotvff0r279mnnmqsmlpob8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
