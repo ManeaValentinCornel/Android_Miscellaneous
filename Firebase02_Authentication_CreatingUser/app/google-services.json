@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "938173240489",
+    "firebase_url": "https://fir-02authenticationcreati.firebaseio.com",
+    "project_id": "fir-02authenticationcreati",
+    "storage_bucket": "fir-02authenticationcreati.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:938173240489:android:d301b993790d28a3",
+        "android_client_info": {
+          "package_name": "vcmanea.example.firebase02_authentication_creatinguser"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "938173240489-ssc7d4fsbb1ltiah0bjvjt8dv5nfu939.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "vcmanea.example.firebase02_authentication_creatinguser",
+            "certificate_hash": "1c9cccf7edd0eb0554cef2271e1de63b76472910"
+          }
+        },
+        {
+          "client_id": "938173240489-i2ok995ajiqq78a4gkbuncrena296e2i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBd5C-eF2ZZjOoZpiYtyjDCbYRoICN_B4k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "938173240489-i2ok995ajiqq78a4gkbuncrena296e2i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

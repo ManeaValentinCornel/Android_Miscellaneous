@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="MyTextStyle">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:gravity">center</item>
+        <item name="android:textSize">20sp</item>
+        <item name="android:color">@android:color/white</item>
+        <item name="android:typeface">serif</item>
+    </style>
+
+
+    <style name="MyTextStyle.Title">
+        <item name="android:textSize">40sp</item>
+    </style>
+    <style name="MyAppThemeBobo" parent="@style/Theme.AppCompat.Light.DarkActionBar">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:gravity">center</item>
+        <item name="android:textSize">20sp</item>
+        <item name="android:text">Theme text</item>
+        <item name="android:color">@android:color/white</item>
+        <item name="android:typeface">serif</item>
+    </style>
+</resources>
