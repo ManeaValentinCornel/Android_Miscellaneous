@@ -52,18 +52,13 @@ public class MainActivity extends AppCompatActivity {
                     else{
                         //permission already granted
                         dispatchTakePictureIntent();
-
                     }
-
-
                     }
 
                 else{
                     //system os < marshmallow
                     dispatchTakePictureIntent();
                 }
-
-
                 }
 
         });
